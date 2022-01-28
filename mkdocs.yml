@@ -1,0 +1,8 @@
+site_name: demo_docmaker
+site_author: Ronny A. Hernandez Mora
+site_url: https://ronnyhdez.github.io/demo_docmaker/
+theme:
+   name: material
+markdown_extensions:
+   - toc:
+      permalink: []
